@@ -2,6 +2,10 @@
 
 A responsive React application featuring a login and signup interface inspired by PopX. This project demonstrates form handling, routing, and basic state management in React using functional components and Tailwind CSS for styling.
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live site](https://popx-app-react.netlify.app/)
+
 ## 🚀 Features
 
 - 👤 Signup form with:
